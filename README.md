@@ -1,6 +1,6 @@
 <!-- Theme: Black #0D0D0D | Red #E10600 | Gold #D4AF37 -->
 
-<div align="center">
+<div align="center" background="#0D0D0D">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0D0D,45:8B0000,100:D4AF37&text=ARYAN%20PAL%20DHANGAR&fontColor=F5F5F5&fontSize=48&fontAlignY=40&desc=PHP%20LARAVEL%20DEVELOPER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20REST%20APIs&descSize=18&descAlignY=62&descColor=FFD700&animation=fadeIn" width="100%" alt="Header" />
 
