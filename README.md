@@ -166,11 +166,7 @@ B2B field-sales and distribution platform with a multi-level hierarchy (GM → M
 
 <br/>
 
-<a href="https://updescoaec.com/"><img src="https://img.shields.io/badge/LIVE-updescoaec.com-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="UPDESCO AEC" /></a><br/>
-<img src="https://img.shields.io/badge/Core%20PHP-0D0D0D?style=flat-square&logo=php&logoColor=D4AF37&labelColor=E10600" alt="Core PHP" />
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=D4AF37&labelColor=E10600" alt="MySQL" />
-<img src="https://img.shields.io/badge/jQuery-0D0D0D?style=flat-square&logo=jquery&logoColor=D4AF37&labelColor=E10600" alt="jQuery" />
-
+<a href="https://updescoaec.com/"><img src="https://img.shields.io/badge/LIVE-updescoaec.com-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="UPDESCO AEC" /></a>
 </td>
 </tr>
 </table>
