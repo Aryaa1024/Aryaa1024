@@ -23,19 +23,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,50:D4AF37,100:E10600&height=2" width="85%" alt="divider" />
 <br/><br/>
 
-</div>
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/ABOUT%20ME-0D0D0D?style=for-the-badge&logo=readme&logoColor=E10600&labelColor=D4AF37" alt="About me" />
 
 <br/><br/>
 
-</div>
-
-<table align="center" width="85%" cellpadding="14">
+<table width="85%" cellpadding="14">
 <tr>
-<td>
+<td align="left">
 
 **PHP Laravel Developer** based in **Lucknow, India**, focused on backend engineering, RESTful API development and MySQL database design.
 
@@ -49,7 +43,6 @@
 </table>
 
 <br/>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,50:D4AF37,100:E10600&height=2" width="85%" alt="divider" />
 <br/><br/>
 
@@ -57,20 +50,17 @@
 
 <br/><br/>
 
-**Backend**
-
+**Backend**<br/>
 <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,c&theme=dark" alt="Backend" />
 
 <br/><br/>
 
-**Frontend**
-
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
-**Database & Tools**
-
+**Database & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode&theme=dark" alt="Database and tools" />
 
 <br/><br/>
@@ -91,36 +81,34 @@
 
 <br/><br/>
 
-</div>
-
-<table align="center" width="85%" cellpadding="12">
+<table width="85%" cellpadding="12">
 <tr>
-<td width="28%" align="center"><b>🔴 Sep 2025 – Present</b></td>
-<td>
+<td width="28%" align="center" valign="middle"><b>🔴 Sep 2025 – Present</b></td>
+<td align="left" valign="middle">
 <b>Junior Software Engineer / Laravel Developer</b><br/>
 <sub>Inventics Software Pvt. Ltd.</sub><br/><br/>
 RESTful APIs for web & mobile, payment gateway and third-party integrations, responsive admin interfaces, SQL optimization, and mentoring 15+ interns.
 </td>
 </tr>
 <tr>
-<td align="center"><b>🟡 Mar 2025 – Sep 2025</b></td>
-<td>
+<td align="center" valign="middle"><b>🟡 Mar 2025 – Sep 2025</b></td>
+<td align="left" valign="middle">
 <b>Laravel Developer Intern (Paid)</b><br/>
 <sub>Inventics Software Pvt. Ltd.</sub><br/><br/>
 Worked on live client applications: backend modules, CRUD operations, admin interfaces, API development, testing and debugging.
 </td>
 </tr>
 <tr>
-<td align="center"><b>🔴 Jul 2024 – Sep 2024</b></td>
-<td>
+<td align="center" valign="middle"><b>🔴 Jul 2024 – Sep 2024</b></td>
+<td align="left" valign="middle">
 <b>Laravel Developer Intern</b><br/>
 <sub>CMP Techserract</sub><br/><br/>
-Contributed to the UPDESCO/AEC government training & certification portal built with Core PHP.
+Contributed to the UPDESCO / AEC Uttar Pradesh State Government training & certification portal built with Core PHP.
 </td>
 </tr>
 <tr>
-<td align="center"><b>🟡 Aug 2023 – Mar 2024</b></td>
-<td>
+<td align="center" valign="middle"><b>🟡 Aug 2023 – Mar 2024</b></td>
+<td align="left" valign="middle">
 <b>C# and .NET Framework Intern</b><br/>
 <sub>Softpro India Pvt. Ltd., Lucknow</sub><br/><br/>
 Training in C# and the .NET Framework with exposure to application development.
@@ -129,7 +117,6 @@ Training in C# and the .NET Framework with exposure to application development.
 </table>
 
 <br/>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,50:D4AF37,100:E10600&height=2" width="85%" alt="divider" />
 <br/><br/>
 
@@ -137,42 +124,49 @@ Training in C# and the .NET Framework with exposure to application development.
 
 <br/><br/>
 
-</div>
-
-<table align="center" width="85%" cellpadding="14">
+<table width="85%" cellpadding="14">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🎓 XP Skills
 Training and learning platform that helps users learn new technologies.
+
+<br/>
 
 <a href="https://xpskills.simpel.ai"><img src="https://img.shields.io/badge/LIVE-xpskills.simpel.ai-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="XP Skills" /></a><br/>
 <a href="https://xpskills.in"><img src="https://img.shields.io/badge/LIVE-xpskills.in-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="XP Skills website" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### ⚖️ Namma
+### ⚖️ Namma Advocate
 Advocate and law-firm profiling web application.
 
-<a href="https://namma.simpel.ai"><img src="https://img.shields.io/badge/LIVE-namma.simpel.ai-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="Namma" /></a>
+<br/>
+
+<a href="https://namma.simpel.ai"><img src="https://img.shields.io/badge/LIVE-namma.simpel.ai-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="Namma Advocate" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🏭 JGH Magic – Amul Field Sales System
 B2B field-sales and distribution platform with a multi-level hierarchy (GM → ME → ZSM → RSM → ASM → Sales Executive) and channel partners: Distributors, Wholesalers and Retailers.
 
+<br/>
+
 <a href="https://admin.jghmagic.com"><img src="https://img.shields.io/badge/ADMIN-admin.jghmagic.com-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="JGH Magic" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🏛️ UPDESCO / AEC Portal
-Government training & certification portal: student registration, certification workflows (CCC, O-Level), institute and lab management.
+**Uttar Pradesh State Government project.** Training & certification portal: student registration, certification workflows (CCC, O-Level), institute and lab management.
 
+<br/>
+
+<a href="https://updescoaec.com/"><img src="https://img.shields.io/badge/LIVE-updescoaec.com-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="UPDESCO AEC" /></a><br/>
 <img src="https://img.shields.io/badge/Core%20PHP-0D0D0D?style=flat-square&logo=php&logoColor=D4AF37&labelColor=E10600" alt="Core PHP" />
 <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=D4AF37&labelColor=E10600" alt="MySQL" />
 <img src="https://img.shields.io/badge/jQuery-0D0D0D?style=flat-square&logo=jquery&logoColor=D4AF37&labelColor=E10600" alt="jQuery" />
@@ -182,7 +176,6 @@ Government training & certification portal: student registration, certification 
 </table>
 
 <br/>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,50:D4AF37,100:E10600&height=2" width="85%" alt="divider" />
 <br/><br/>
 
@@ -210,21 +203,18 @@ Government training & certification portal: student registration, certification 
 
 <br/><br/>
 
-</div>
-
-<table align="center" width="85%" cellpadding="12">
+<table width="85%" cellpadding="12">
 <tr>
-<td width="28%" align="center"><b>🎓 2023 – 2026</b></td>
-<td><b>B.Tech, Computer Science & Engineering</b> (Lateral Entry)<br/><sub>AKTU · Jahangirabad Institute of Technology, Barabanki · CGPA 6.91</sub></td>
+<td width="28%" align="center" valign="middle"><b>🎓 2023 – 2026</b></td>
+<td align="left" valign="middle"><b>B.Tech, Computer Science & Engineering</b> (Lateral Entry)<br/><sub>AKTU · Jahangirabad Institute of Technology, Barabanki · CGPA 6.91</sub></td>
 </tr>
 <tr>
-<td align="center"><b>📜 2020 – 2023</b></td>
-<td><b>Diploma, Computer Science & Engineering</b><br/><sub>BTEUP · Government Polytechnic Adampur Tarabganj, Gonda · 78.04%</sub></td>
+<td align="center" valign="middle"><b>📜 2020 – 2023</b></td>
+<td align="left" valign="middle"><b>Diploma, Computer Science & Engineering</b><br/><sub>BTEUP · Government Polytechnic Adampur Tarabganj, Gonda · 78.04%</sub></td>
 </tr>
 </table>
 
 <br/>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,50:D4AF37,100:E10600&height=2" width="85%" alt="divider" />
 <br/><br/>
 
@@ -238,6 +228,8 @@ Government training & certification portal: student registration, certification 
 
 <a href="mailto:aryanpal1024@gmail.com"><img src="https://img.shields.io/badge/aryanpal1024@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=E10600" alt="Email" /></a>
 <a href="https://portfolio.aryanpaltech.in"><img src="https://img.shields.io/badge/portfolio.aryanpaltech.in-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37&labelColor=E10600" alt="Portfolio" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D0D0D,45:8B0000,100:D4AF37" width="100%" alt="Footer" />
 
