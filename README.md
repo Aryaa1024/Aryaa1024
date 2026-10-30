@@ -1,15 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Aryan%20Pal%20Dhangar&fontSize=46&fontColor=F0F6FC&fontAlignY=42&desc=Laravel%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20API%20Specialist&descSize=16&descColor=8B949E&descAlignY=66" width="100%" alt="Aryan Pal Dhangar" />
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=44&duration=3000&pause=1000&repeat=false&color=F0F6FC&center=true&vCenter=true&width=720&height=74&letterSpacing=2px&lines=Aryan+Pal+Dhangar">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=44&duration=3000&pause=1000&repeat=false&color=0D1117&center=true&vCenter=true&width=720&height=74&letterSpacing=2px&lines=Aryan+Pal+Dhangar" alt="Aryan Pal Dhangar" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3000&pause=1000&repeat=false&color=C8A96A&center=true&vCenter=true&width=720&height=30&letterSpacing=3px&lines=LARAVEL+DEVELOPER+%C2%B7+BACKEND+ENGINEER+%C2%B7+API+SPECIALIST" alt="Laravel Developer, Backend Engineer, API Specialist" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=1&section=header" width="30%" alt="" />
 
 <sub>Designing reliable backends and clean APIs &nbsp;·&nbsp; Lucknow, India</sub>
 
 <br/><br/>
 
-<a href="https://portfolio.aryanpaltech.in"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=F0F6FC" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/aryan-pal-dhangar-417ab628a"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=F0F6FC" alt="LinkedIn" /></a>
-<a href="https://github.com/Aryaa1024"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="GitHub" /></a>
-<a href="mailto:aryanpal1024@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=F0F6FC" alt="Email" /></a>
+<a href="https://portfolio.aryanpaltech.in"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=C8A96A" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/aryan-pal-dhangar-417ab628a"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=C8A96A" alt="LinkedIn" /></a>
+<a href="https://github.com/Aryaa1024"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=C8A96A" alt="GitHub" /></a>
+<a href="mailto:aryanpal1024@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=C8A96A" alt="Email" /></a>
 
 <br/>
 
@@ -17,11 +28,17 @@
 <img src="https://img.shields.io/github/stars/Aryaa1024?style=flat-square&label=stars%20earned&color=161B22&labelColor=0D1117" alt="stars" />
 <img src="https://komarev.com/ghpvc/?username=Aryaa1024&label=profile%20views&style=flat-square&color=161B22&labelColor=0D1117" alt="views" />
 
+<br/><br/>
+
+<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#expertise">Expertise</a> &nbsp;·&nbsp; <a href="#selected-work">Work</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#github-activity">Activity</a> &nbsp;·&nbsp; <a href="#get-in-touch">Contact</a></sub>
+
 </div>
 
 <br/>
 
 ## About
+
+> *Turning complex business requirements into clean, reliable backend systems.*
 
 I build backend systems with **Laravel** and **MySQL**, with a focus on clean RESTful APIs, secure authentication and dependable third-party integrations, including payment gateways (Razorpay, Cashfree), PAN verification and credit information services.
 
@@ -96,16 +113,17 @@ Alongside engineering, I mentor interns and have trained **15+ developers** in L
 
 <div align="center">
 
-<img height="170" style="padding:10px" src="https://github-readme-stats.vercel.app/api?username=Aryaa1024&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=F0F6FC&icon_color=8B949E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="GitHub stats" />
-<img height="170" style="padding:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa1024&layout=compact&langs_count=6&hide_border=false&title_color=F0F6FC&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Aryaa1024&hide_border=false&background=0D1117&border=30363D&ring=8B949E&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D&border_radius=8" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryaa1024&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=C8A96A&icon_color=C8A96A&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="GitHub stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa1024&layout=compact&langs_count=6&hide_border=false&title_color=C8A96A&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaa1024&bg_color=0D1117&color=8B949E&line=F0F6FC&point=F0F6FC&area=true&area_color=30363D&hide_border=true&hide_title=true" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=Aryaa1024&hide_border=false&background=0D1117&border=30363D&ring=C8A96A&fire=C8A96A&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D&border_radius=8" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaa1024&bg_color=0D1117&color=8B949E&line=C8A96A&point=F0F6FC&area=true&area_color=C8A96A&hide_border=true&hide_title=true" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -117,14 +135,18 @@ Alongside engineering, I mentor interns and have trained **15+ developers** in L
 
 Open to Laravel and backend engineering opportunities.
 
-<br/>
+<br/><br/>
 
-<a href="https://portfolio.aryanpaltech.in"><img src="https://img.shields.io/badge/Portfolio-F0F6FC?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/aryan-pal-dhangar-417ab628a"><img src="https://img.shields.io/badge/LinkedIn-F0F6FC?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:aryanpal1024@gmail.com"><img src="https://img.shields.io/badge/Email-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+<a href="https://portfolio.aryanpaltech.in"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=C8A96A" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/aryan-pal-dhangar-417ab628a"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=C8A96A" alt="LinkedIn" /></a>
+<a href="mailto:aryanpal1024@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=C8A96A" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96A&height=1&section=header" width="30%" alt="" />
+
+<sub><i>Clean code is written by someone who cares.</i></sub>
+
+<br/><br/>
 
 </div>
