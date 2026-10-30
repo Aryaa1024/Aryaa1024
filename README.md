@@ -61,7 +61,7 @@ Alongside engineering, I mentor interns and have trained **15+ developers** in L
 | Project | Overview |
 |:--|:--|
 | **[XP Skills](https://xpskills.simpel.ai)** | Training and learning platform that helps users learn new technologies. |
-| **[Namma](https://namma.simpel.ai)** | Profiling web application for advocates and law firms. |
+| **[Namma Advocate](https://namma.simpel.ai)** | Profiling web application for advocates and law firms. |
 | **[JGH Magic (Amul B2B)](https://admin.jghmagic.com)** | Field sales and distribution system with a multi-level hierarchy (GM → ME → ZSM → RSM → ASM → Sales Executive) and channel partners: distributors, wholesalers and retailers. |
 | **[UPDESCO / AEC Portal](https://updescoaec.com/)** | Government training and certification portal covering student registration, lab and institute management, and CCC / O-Level workflows. |
 
@@ -96,8 +96,8 @@ Alongside engineering, I mentor interns and have trained **15+ developers** in L
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryaa1024&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=F0F6FC&icon_color=8B949E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa1024&layout=compact&langs_count=6&hide_border=false&title_color=F0F6FC&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="Top languages" />
+<img height="170" style="padding:10px" src="https://github-readme-stats.vercel.app/api?username=Aryaa1024&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=F0F6FC&icon_color=8B949E&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="GitHub stats" />
+<img height="170" style="padding:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa1024&layout=compact&langs_count=6&hide_border=false&title_color=F0F6FC&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=8" alt="Top languages" />
 
 <br/>
 
