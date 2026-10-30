@@ -1,6 +1,6 @@
 <!-- Theme: Black #0D0D0D | Red #E10600 | Gold #D4AF37 -->
 
-<div align="center" background="#0D0D0D">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0D0D,45:8B0000,100:D4AF37&text=ARYAN%20PAL%20DHANGAR&fontColor=F5F5F5&fontSize=48&fontAlignY=40&desc=PHP%20LARAVEL%20DEVELOPER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20REST%20APIs&descSize=18&descAlignY=62&descColor=FFD700&animation=fadeIn" width="100%" alt="Header" />
 
@@ -133,8 +133,7 @@ Training and learning platform that helps users learn new technologies.
 
 <br/>
 
-<a href="https://xpskills.simpel.ai"><img src="https://img.shields.io/badge/LIVE-xpskills.simpel.ai-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="XP Skills" /></a><br/>
-<a href="https://xpskills.in"><img src="https://img.shields.io/badge/LIVE-xpskills.in-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="XP Skills website" /></a>
+<a href="https://xpskills.simpel.ai"><img src="https://img.shields.io/badge/LIVE-xpskills.simpel.ai-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="XP Skills" /></a>
 
 </td>
 <td width="50%" valign="top" align="left">
@@ -167,6 +166,7 @@ B2B field-sales and distribution platform with a multi-level hierarchy (GM → M
 <br/>
 
 <a href="https://updescoaec.com/"><img src="https://img.shields.io/badge/LIVE-updescoaec.com-0D0D0D?style=flat-square&labelColor=E10600&color=0D0D0D&logoColor=D4AF37" alt="UPDESCO AEC" /></a>
+
 </td>
 </tr>
 </table>
